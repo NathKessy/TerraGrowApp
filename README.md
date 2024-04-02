@@ -16,6 +16,19 @@ Crie um aplicativo simples capaz de consumir um serviço e proporcionar algum be
 ## Solução
 TerraGrow é uma plataforma inovadora projetada para promover a agricultura urbana e a alimentação sustentável em áreas urbanas, alinhada com os princípios de uma Smart City. Através deste aplicativo, os usuários podem participar ativamente na criação e manutenção de espaços verdes, como hortas comunitárias e telhados verdes, enquanto utilizam tecnologias inteligentes para maximizar a eficiência e a sustentabilidade.
 
+<table>
+  <tr>
+    <td><img src="https://github.com/NathKessy/TerraGrowApp/blob/main/imagens/TelaLogin.jpg" width="230" height="500"></td>
+    <td><img src="https://github.com/NathKessy/TerraGrowApp/blob/main/imagens/TelaMenu.jpg" width="230" height="500"></td>
+    <td><img src="https://github.com/NathKessy/TerraGrowApp/blob/main/imagens/TelaTemperatura.jpg" width="230" height="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tela Login</b></td>
+    <td align="center"><b>Tela Home</b></td>
+    <td align="center"><b>Tela Temperatura</b></td>
+  </tr>
+</table>
+
 ## Tecnologia
 Para esse projeto foi utilizado as seguintes tecnologias:
 - [Kotlin] 
